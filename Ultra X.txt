@@ -1,16 +1,16 @@
 if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
     game.StarterGui:SetCore("SendNotification", {
       Icon = "rbxassetid://9152775759";
-      Title = "Ultra X Scrip ", 
-      Text = "Welcome Dragon hub!"
+      Title = "อาซันหน้าหี", 
+      Text = "อาซันหน้าหีๆๆๆๆๆ"
   })
   
   wait(1)
   
   game.StarterGui:SetCore("SendNotification", {
       Icon = "http://www.roblox.com/asset/?id=6023426915";
-      Title = "Ultra X hub", 
-      Text = "Loading Ui..."
+      Title = "อาซันขี้คาตูด", 
+      Text = "อีขี้คาตูด!!"
   })
   
   wait(10)
@@ -1074,7 +1074,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
   
   
      
-      local sxhub = library:AddWindow("Dragon | Ultra X",Enum.KeyCode.RightControl)
+      local sxhub = library:AddWindow("อาซันหน้าหี Beta Teasing!!.,Enum.KeyCode.RightControl)
       
       local Main = sxhub:AddTab("Main","6026568198")
       local stus = sxhub:AddTab("Auto Stats","7040410130")
@@ -1526,19 +1526,19 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
   
       Main:AddLabel("Old World")
   
-      tp:AddButton("First land",function()
+      tp:AddButton("เกาะเเรก",function()
           TP2(CFrame.new(1042.1501464844, 16.299360275269, 1444.3442382813))
       end)
       tp:AddButton("Shell Town",function()
           TP2(CFrame.new(-2599.6655273438, 6.9146227836609, 2062.2216796875))
       end)
-      tp:AddButton("Marine Ford",function()
+      tp:AddButton("เกาะ Marine ",function()
           TP2(CFrame.new(-5081.3452148438, 85.221641540527, 4257.3588867188))
       end)
-      tp:AddButton("Midle Town",function()
+      tp:AddButton("เกาะกลาง",function()
           TP2(CFrame.new(-655.97088623047, 7.878026008606, 1573.7612304688))
       end)
-      tp:AddButton("Jungle",function()
+      tp:AddButton("เกาะลิง",function()
           TP2(CFrame.new(-1499.9877929688, 22.877912521362, 353.87060546875))
       end)
       tp:AddButton("Pirate",function()
@@ -2271,10 +2271,10 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
   
      local set = sxhub:AddTab("Setting","7040347038")
   set:AddLabel("Setting")
-      set:AddButton("Credit By DzX#0211",function()
+      set:AddButton("Credit By BlackMomo p.6/1 ",function()
   end)
-      set:AddButton("Copy link Sx Hub Discord ",function()
-      setclipboard("https://discord.gg/EASsNUfqA3")
+      set:AddButton("Copy link Dragon EVO X Hub Discord ",function()
+      setclipboard("Comming Soon...1")
   end)
       set:AddButton("Hop Lower Server",function()
       HopLowerServer()
@@ -5315,15 +5315,15 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
   elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId == 5931540094 or game.PlaceId == 5931540094 then
     game.StarterGui:SetCore("SendNotification", {
       Icon = "rbxassetid://9152775759";
-      Title = "Sx hub", 
-      Text = "Welcome SX hub!"
+      Title = "X hub", 
+      Text = "Welcome Dragon Evox hub!"
   })
   
   wait(1)
   
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9152775759";
-      Title = "Sx hub", 
+      Icon = "";
+      Title = "Ultra X hub", 
       Text = "Loading Ui..."
   })
   
@@ -6326,7 +6326,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
       Toggle.Position = UDim2.new(0.11, 0, 0.2, 0)
       Toggle.Size = UDim2.new(0, 50, 0, 50)
       Toggle.Font = Enum.Font.Code
-      Toggle.Text = "Sx"
+      Toggle.Text = "EVOX"
       Toggle.TextColor3 = Color3.fromRGB(0, 48, 255)
       Toggle.TextScaled = true
       Toggle.MouseButton1Down:connect(function()
@@ -6710,7 +6710,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
           end)
       end
       --
-      local RenUi = library:AddWindow("Sx Hub | King Legacy",Enum.KeyCode.RightControl)
+      local RenUi = library:AddWindow("Ultra X | King Legacy",Enum.KeyCode.RightControl)
       --
       local Main = RenUi:AddTab("Main","6026568198")
       local Stats = RenUi:AddTab("Stats","7040410130")
